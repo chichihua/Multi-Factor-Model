@@ -12,6 +12,4 @@ Capture a relatively high active return.
 5. Backtesting: test the effectiveness of the model and check the portfolio’s alpha over the benchmark.
 
 ### Division:
-Jiahua Jiang: 1, 2, 4
-Bo Sun: 3
-Baowen Cao: 5
+Jiahua Jiang: 1, 2, 4; Bo Sun: 3; Baowen Cao: 5

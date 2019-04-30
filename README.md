@@ -10,6 +10,3 @@ Capture a relatively high active return.
 3. Use OLS (or LASSO which might be more optimal) to define factor's sensitivity, test each factor’s effectiveness and eliminate redundant factors with multicollinearity and low r-square;
 4. Build an algo to allocate active weights on different constituent stocks on the basis of the expected next month's return predicted by the regression model (give more weights on stocks with relatively higher expected return and vice versa);
 5. Backtesting: test the effectiveness of the model and check the portfolio’s alpha over the benchmark.
-
-### Division:
-Jiahua Jiang: 1, 2, 4; Bo Sun: 3; Baowen Cao: 5

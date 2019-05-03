@@ -56,7 +56,7 @@ The stock price and financial data were retrieved from Chinese information serve
         - Sort the p-values to check the significance level of each factor's exposure (slope coefficient)
             - <img src="pvalues.png" width = "200" height = "200" div align=center />
         - Plot a heatmap of the correlation matrix of factors to tell if there's multicollinearity
-            - <img src="factors_corr.png" width = "600" height = "600" div align=center />
+            - <img src="factors_corr.png" width = "600" height = "400" div align=center />
         - Remove redundant factors of high correlation with other factors and high p-values (low significance level)
             - Factor remaining: "EV", "PB_MRQ", "EV2_TO_EBITDA", "ROE", "YOYPROFIT", "YOY_TR", "TURN" 
         - Rerun multiple linear regression and compare the results
@@ -73,4 +73,4 @@ The stock price and financial data were retrieved from Chinese information serve
     - Check the active return: compare the return of the index and our enhanced indexing strategy
     - Performance evaluation
 
-<img src="backtesting.png" width = "600" height = "600" div align=center />
+<img src="backtesting.png" width = "600" height = "400" div align=center />
